@@ -1,0 +1,14 @@
+package 산술연산자;
+
+import java.util.Scanner;
+
+public class Exo3산술연산자예제 {
+
+	public static void main(String[] args) {
+     Scanner sc = new Scanner(System.in);
+     int num =sc.nextInt();
+     System.out.print("정수입력 :");
+     
+	}
+
+}

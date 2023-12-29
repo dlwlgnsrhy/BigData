@@ -1,0 +1,17 @@
+package 변수및자료형;
+
+public class Ex02변수 {
+	-변수 variable
+
+	메모리공간
+
+	int a = 3;    a라는 정수형 4byte 상자에 3을 넣는다는 의미
+
+	=는 대입 ==는 같다 라는 의미를 갖음.
+
+	[main 입력안되어있을시]
+	main입력후  ctrl space 후에 제일위에있는것 입력
+
+	}
+
+}

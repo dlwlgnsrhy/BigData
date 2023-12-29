@@ -1,0 +1,53 @@
+package 단순if문;
+
+import java.util.Scanner;
+
+public class Ex02단순if문예제 {
+
+	public static void main(String[] args) {
+Scanner sc =new Scanner(System.in);
+//1.입력도구 꺼내기
+//2.출력
+System.out.print("정수를 입력하세요 :");	
+int num =sc.nextInt();
+if(num%5==0 &&num%3==0) {
+	System.out.println("3과 5의 배수입니다.");}
+	//2안
+	if(num%3==0) {
+		//3의 배수이다
+		if(num%5==0) {
+			//3과 5의배수이다.
+			System.out.println("3과 5의 배수입니다.");
+		}
+		
+		
+	
+}
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

@@ -1,0 +1,47 @@
+package ifelse문;
+
+import java.util.Scanner;
+
+public class Ex03마트계산대프로그램 {
+
+	public static void main(String[] args) {
+   Scanner sc= new Scanner(System.in);
+   System.out.print("상품의 개수를 입력하세요 :");
+   int pro = sc.nextInt();
+   if(pro>10) {System.out.println(10000*pro/10*9);
+	   }else {
+		   System.out.println(pro*10000);
+	   }
+		   
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

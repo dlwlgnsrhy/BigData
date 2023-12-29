@@ -1,0 +1,46 @@
+package 변수및자료형;
+
+public class Ex04자료형 {
+
+	public static void main(String[] args) {
+
+		
+		
+		//자바의 기본 자료형
+		// 1) 논리 자료형 : boolean (1byte)
+		//:참 또는 거짓을 저장하는 자료형
+		//참이라는 데이터를 저장하는 bool 변수 선언
+		boolean bool = true;
+		bool = false;
+		System.out.println(bool);
+		
+		char name = '이';//한글자밖에 넣지못함 '를 씀
+		System.out.print(name);
+		
+		//문자열 자료형 (기본 자료형이 아님!!)한글자가 불편해!! 할때 쓰는것
+		//String : 쌍따옴표를 이용해서 작성하고 , 여러글자가 들어갈 수 있다.
+		String name2 = "이지훈";
+		System.out.print(name2);
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}

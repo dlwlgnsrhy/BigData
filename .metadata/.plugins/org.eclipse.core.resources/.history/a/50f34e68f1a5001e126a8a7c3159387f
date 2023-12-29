@@ -1,0 +1,28 @@
+package ifelse문;
+
+public class Ex02입장료계산프로그램 {
+
+	public static void main(String[] args) {
+System.out.println(""====에버랜드에 오신 걸 환영합니다!====");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+	}
+
+}
