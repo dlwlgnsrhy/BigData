@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T01:46:11.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="W7-5uo0nxermTcCyl7aY" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T01:49:19.095Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="Xuaco6D7tqu2PILEoEjg" version="22.1.21" type="github">
   <diagram name="페이지-1" id="tjMbeGLDGfOi6D5aleVF">
     <mxGraphModel dx="1091" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -7,7 +7,7 @@
         <mxCell id="z2bh8KJwpk35vDKDQy6h-1" value="메인페이지" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="-125" y="45" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z2bh8KJwpk35vDKDQy6h-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="154" y="-107" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-3" value="게임 선택&lt;br&gt;닉네임,게임종류선택" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -34,15 +34,6 @@
             <mxPoint x="214" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z2bh8KJwpk35vDKDQy6h-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="238" y="22" as="sourcePoint" />
-            <mxPoint x="309" y="134" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="279" y="-19" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="267" y="-5" as="sourcePoint" />
@@ -56,6 +47,12 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="151" y="11" as="sourcePoint" />
             <mxPoint x="87" y="115" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-14" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="218" y="21" as="sourcePoint" />
+            <mxPoint x="306" y="127" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
