@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T01:44:48.013Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="aiVmmEd89ClOG-1FJt1B" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-23T01:46:11.462Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="W7-5uo0nxermTcCyl7aY" version="22.1.21" type="github">
   <diagram name="페이지-1" id="tjMbeGLDGfOi6D5aleVF">
     <mxGraphModel dx="1091" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
@@ -21,6 +21,42 @@
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-6" value="랭킹 및 보상" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="372" y="27" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-8" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="93" y="-25" as="sourcePoint" />
+            <mxPoint x="7" y="46" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="186" y="32" as="sourcePoint" />
+            <mxPoint x="214" y="180" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="238" y="22" as="sourcePoint" />
+            <mxPoint x="309" y="134" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="279" y="-19" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="267" y="-5" as="sourcePoint" />
+            <mxPoint x="346" y="49" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" edge="1" parent="1" source="z2bh8KJwpk35vDKDQy6h-4" target="z2bh8KJwpk35vDKDQy6h-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="151" y="11" as="sourcePoint" />
+            <mxPoint x="87" y="115" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
