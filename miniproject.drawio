@@ -1,20 +1,20 @@
-<mxfile host="app.diagrams.net" modified="2024-01-23T03:20:29.954Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ra7v4tdDWZA_84v5f39M" version="22.1.21" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-24T03:26:23.426Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="W6wCeWh2e1cTAlV-kw8k" version="22.1.21" type="github">
   <diagram name="페이지-1" id="tjMbeGLDGfOi6D5aleVF">
-    <mxGraphModel dx="1027" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="988" dy="1185" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="z2bh8KJwpk35vDKDQy6h-1" value="메인페이지" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="-125" y="45" width="120" height="80" as="geometry" />
+          <mxGeometry x="-27" y="117" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-2" value="User" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="154" y="-107" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="z2bh8KJwpk35vDKDQy6h-3" value="게임 선택&lt;br&gt;닉네임,게임종류선택" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="15" y="125" width="120" height="80" as="geometry" />
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-3" value="게임 시작" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="114" y="129" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="z2bh8KJwpk35vDKDQy6h-4" value="선택문제 풀기&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="209" y="125" width="120" height="80" as="geometry" />
+        <mxCell id="z2bh8KJwpk35vDKDQy6h-4" value="게임 진행" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
+          <mxGeometry x="255" y="107" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-6" value="랭킹 및 보상" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" parent="1" vertex="1">
           <mxGeometry x="366" y="45" width="120" height="80" as="geometry" />
@@ -27,14 +27,14 @@
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-9" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="197" y="12" as="sourcePoint" />
-            <mxPoint x="245" y="106" as="targetPoint" />
+            <mxPoint x="222" y="-2" as="sourcePoint" />
+            <mxPoint x="270" y="92" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-11" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="241" y="-31" as="sourcePoint" />
-            <mxPoint x="342" y="58" as="targetPoint" />
+            <mxPoint x="255" y="-44" as="sourcePoint" />
+            <mxPoint x="356" y="45" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-12" style="edgeStyle=none;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;fontSize=12;startSize=8;endSize=8;" parent="1" source="z2bh8KJwpk35vDKDQy6h-4" target="z2bh8KJwpk35vDKDQy6h-4" edge="1">
@@ -42,9 +42,12 @@
         </mxCell>
         <mxCell id="z2bh8KJwpk35vDKDQy6h-13" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;startSize=8;endSize=8;curved=1;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="151" y="11" as="sourcePoint" />
-            <mxPoint x="87" y="115" as="targetPoint" />
+            <mxPoint x="132" y="-2" as="sourcePoint" />
+            <mxPoint x="68" y="102" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="fBRKI5OGHKLcV428VTqj-1" value="아스키아트" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="-121" y="45" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
